@@ -8,4 +8,6 @@ The functionalities is just the same as the video I just made a few changes in i
 
 majority of the changes were done at the search bar components
 
+after cloning you should first open the terminal and run npm install on the project directory in order for you to install node_modules after that you may now proceed on running the command ng serve --open
+
 ![Screenshot 2022-07-19 155322](https://user-images.githubusercontent.com/108327522/179697334-19325fb0-37e6-47b2-8a6d-49b1afdfbb52.jpg)
