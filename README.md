@@ -1,4 +1,4 @@
-# angular-video-game-ap
+# angular-video-game-app
 
 Activity 1
 
