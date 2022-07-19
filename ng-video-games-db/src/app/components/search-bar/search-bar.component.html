@@ -1,0 +1,14 @@
+<div class="search-container">
+    <form class="search-form" #form="ngForm" (ngSubmit)="onSubmit(form)">
+      <span class="logo" routerLink="/">Search for Other Games</span>
+      <input
+        class="search-input"
+        name="search"
+        ngModel
+        placeholder="Over 500,000+ games"
+      />
+      <button class="search-button">Search</button>
+    </form>
+    <button class="hButton" style="margin-right: 30px" (click)="balikHome()"> Home </button>
+  </div>
+  
